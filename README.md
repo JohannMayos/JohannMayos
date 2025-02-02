@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johann Mayos
 ====================================================================================================================================
 
-Embedding Android and Machine Learning Developer
+Embedded Android Analyst/Machine Learning Developer
 ------------------------------------------------
 
 I am a technology professional with a Bachelor's degree in Information Systems and a technical high school background in IT. I have experience in analyzing and resolving issues related to AOSP and the audio framework, optimizing audio and video parameters, and testing functionalities on Android devices. I utilized tools like Jira, Gerrit, and Jenkins for task management, code review, and CI/CD pipelines, ensuring software quality and stability. Additionally, I have a strong foundation in machine learning, neural networks, and predictive modeling, having worked on projects like music genre classification using the GTZAN dataset, where I explored audio embeddings, data augmentation, and multimodal approaches. My expertise in embedded systems and machine learning makes me a versatile professional ready to tackle innovative challenges in tech.
